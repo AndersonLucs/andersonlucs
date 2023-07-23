@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning ...
 <div style="display: inline_block">
   <a href="https://github.com/andersonlucs">
-  <img align="center" alt="Rails-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg">
+  <img align="center" alt="Kubernetes-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg">
   <img align="center" alt="Docker-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
   <img align="center" alt="Python-icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
   <img align="center" alt="HTML-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
