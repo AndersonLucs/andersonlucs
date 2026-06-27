@@ -1,4 +1,4 @@
-**Hello there!**
+﻿**Hello there!**
 - 🌱 I’m currently learning ...
 <div style="display: inline_block">
   <a href="https://github.com/andersonlucs">
@@ -42,6 +42,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AndersonLucs/AndersonLucs/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndersonLucs/andersonlucs/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/AndersonLucs/andersonlucs/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ###
